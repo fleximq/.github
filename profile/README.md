@@ -27,7 +27,8 @@ The fleximq project is organized into several key components, each housed in its
 | Repository Name                                           | Description                                                                                                                   |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
 | [**`fleximq`**](https://github.com/fleximq/fleximq)       | The main project directory, containing this overview.                                                                         |
-| [**`fleximq.rs`**](https://github.com/fleximq/fleximq.rs) | The official Rust implementation of the fleximq protocol, client libraries, and server/broker components.                     |
+| [**`fleximq.rs`**](https://github.com/fleximq/fleximq.rs) | The official Rust implementation of the fleximq protocol, client libraries, and broker components.                              |
+| [**`fleximq.kt`**](https://github.com/fleximq/fleximq.kt) | The official Kotlin implementation of the fleximq protocol, client libraries, and broker components.                            |
 | [**`spec`**](https://github.com/fleximq/spec)             | Houses the official fleximq protocol specifications, including current drafts and released versions.                          |
 | [**`rfcs`**](https://github.com/fleximq/rfcs)             | Manages the Request for Comments (RFCs) process for proposing and discussing new features or changes to the fleximq protocol. |
 
